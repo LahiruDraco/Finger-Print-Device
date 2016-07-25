@@ -1,0 +1,15 @@
+C:\Users\lahir\OneDrive\Documents\Visual Studio 2013\Projects\IoTProject\IoTProject\bin\x86\Debug\IoTProject.exe.config
+C:\Users\lahir\OneDrive\Documents\Visual Studio 2013\Projects\IoTProject\IoTProject\bin\x86\Debug\IoTProject.exe
+C:\Users\lahir\OneDrive\Documents\Visual Studio 2013\Projects\IoTProject\IoTProject\bin\x86\Debug\IoTProject.pdb
+C:\Users\lahir\OneDrive\Documents\Visual Studio 2013\Projects\IoTProject\IoTProject\bin\x86\Debug\MongoDB.Bson.dll
+C:\Users\lahir\OneDrive\Documents\Visual Studio 2013\Projects\IoTProject\IoTProject\bin\x86\Debug\MongoDB.Driver.Core.dll
+C:\Users\lahir\OneDrive\Documents\Visual Studio 2013\Projects\IoTProject\IoTProject\bin\x86\Debug\MongoDB.Driver.dll
+C:\Users\lahir\OneDrive\Documents\Visual Studio 2013\Projects\IoTProject\IoTProject\bin\x86\Debug\MongoDB.Bson.xml
+C:\Users\lahir\OneDrive\Documents\Visual Studio 2013\Projects\IoTProject\IoTProject\bin\x86\Debug\MongoDB.Driver.xml
+C:\Users\lahir\OneDrive\Documents\Visual Studio 2013\Projects\IoTProject\IoTProject\obj\x86\Debug\IoTProject.Batch.resources
+C:\Users\lahir\OneDrive\Documents\Visual Studio 2013\Projects\IoTProject\IoTProject\obj\x86\Debug\IoTProject.Form1.resources
+C:\Users\lahir\OneDrive\Documents\Visual Studio 2013\Projects\IoTProject\IoTProject\obj\x86\Debug\IoTProject.Login.resources
+C:\Users\lahir\OneDrive\Documents\Visual Studio 2013\Projects\IoTProject\IoTProject\obj\x86\Debug\IoTProject.Properties.Resources.resources
+C:\Users\lahir\OneDrive\Documents\Visual Studio 2013\Projects\IoTProject\IoTProject\obj\x86\Debug\IoTProject.csproj.GenerateResource.Cache
+C:\Users\lahir\OneDrive\Documents\Visual Studio 2013\Projects\IoTProject\IoTProject\obj\x86\Debug\IoTProject.exe
+C:\Users\lahir\OneDrive\Documents\Visual Studio 2013\Projects\IoTProject\IoTProject\obj\x86\Debug\IoTProject.pdb
