@@ -18,3 +18,5 @@ C:\Users\lahir\OneDrive\Documents\Visual Studio 2013\Projects\IoTProject\IoTProj
 C:\Users\lahir\OneDrive\Documents\Visual Studio 2013\Projects\IoTProject\IoTProject\obj\Debug\IoTProject.ImportBatch.resources
 C:\Users\lahir\OneDrive\Documents\Visual Studio 2013\Projects\IoTProject\IoTProject\bin\Debug\Newtonsoft.Json.dll
 C:\Users\lahir\OneDrive\Documents\Visual Studio 2013\Projects\IoTProject\IoTProject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lahir\OneDrive\Documents\Visual Studio 2013\Projects\IoTProject\IoTProject\obj\Debug\IoTProject.HomePage.resources
+C:\Users\lahir\OneDrive\Documents\Visual Studio 2013\Projects\IoTProject\IoTProject\obj\Debug\IoTProject.SerialCommunication.resources
